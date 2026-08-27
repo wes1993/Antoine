@@ -92,6 +92,7 @@
 "Ends With" = "Ends With";
 
 /* Background Mode (Application UI) */
+"Auto Start on Launch" = "Auto Start on Launch";
 "Background Mode" = "Background Mode";
 "Collect logs in background" = "Collect logs in background";
 "Stay active in background for.." = "Stay active in background for..";
