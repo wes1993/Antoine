@@ -7,7 +7,7 @@
 
 /* Entry Filter View Controller (Navigation Title) */
 "Search Filter" = "Search Filter";
-
+"Search Logs..." = "Search Logs...";
 /* Entry Filter View Controller (Section Titles) */
 "Enabled" = "Enabled";
 "Process ID" = "Process ID";
