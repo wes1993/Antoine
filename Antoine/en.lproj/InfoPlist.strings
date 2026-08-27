@@ -7,4 +7,3 @@
 */
 
 NSLocationAlwaysAndWhenInUseUsageDescription = "In order to continue receiving logs in the background, Antoine needs location permissions keep the app alive in the background, if you agree, press 'Allow While Using App'";
-"Auto Start on Launch" = "Auto Start on Launch";
