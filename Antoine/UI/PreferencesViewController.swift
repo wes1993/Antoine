@@ -66,7 +66,7 @@ extension PreferencesViewController: UITableViewDataSource, UITableViewDelegate 
         case (1, 0):
             let cell = UITableViewCell(style: .default, reuseIdentifier: nil)
             //cell.textLabel?.text = "每次打开时自动抓取" // 如果你想加入多语言，可以写 .localized("Auto Start on Launch")
-            cell.textLabel?.text = Bundle.main.localizedString(forKey: "Auto Start on Launch", value: nil, table: "InfoPlist")
+            cell.textLabel?.text = .localized("Auto Start on Launch")
             let uiSwitch = UISwitch()
             uiSwitch.isOn = Preferences.autoStartStreaming
             uiSwitch.addAction(for: .valueChanged) {
